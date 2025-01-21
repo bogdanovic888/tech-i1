@@ -15,7 +15,6 @@ Installation
 - Click Install Now and make sure to pick Activate when installing
 - After successfull installation plugin should appear on the left
 - Enjoy!
-- 
 Live Demo: 
 - http://52.60.158.234/
 - Login To Admin Panel: http://52.60.158.234/login
